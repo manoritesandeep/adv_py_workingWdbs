@@ -1,0 +1,18 @@
+
+psql -U postgres
+
+----------------------------------------------------------------
+CREATE DATABASE red30;
+
+# list databases
+\l 
+
+# connect to database
+\c red30;
+
+# show tables
+\dt
+
+
+
+
